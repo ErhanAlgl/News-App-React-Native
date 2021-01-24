@@ -14,6 +14,8 @@ A React Native News app with search and load more functionalities for Android de
 - News search feature
 - News sharing feature
 
+## In-app images
+
 ![Screenshot_1611487145](https://user-images.githubusercontent.com/39314007/105628828-5ddb9b80-5e50-11eb-9dcc-17afef073b3b.png)
 
 ![Screenshot_1611487137](https://user-images.githubusercontent.com/39314007/105628829-60d68c00-5e50-11eb-96e2-f0b9a32aeae6.png)
