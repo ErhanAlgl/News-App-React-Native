@@ -2,15 +2,16 @@ A React Native News app with search and load more functionalities for Android de
 
 
 
-INSTALLATION
+## INSTALLATION
 
 - Clone Repository
 - cd News-App-React-Native
 - npm i
 - npm start
 
-FUNCTIONALITY
+## FUNCTIONALITY
 
 - News search feature
 - News sharing feature
 
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
